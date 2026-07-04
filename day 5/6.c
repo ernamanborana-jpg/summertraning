@@ -1,6 +1,4 @@
-
 // sum of  2 matrices
-
 #include <stdio.h>
 int main(){
   int  a[3][3],b[3][3],c[3][3],i,j;
@@ -26,9 +24,6 @@ for ( i = 0; i < 3; i++)
     }
     
 }
-
-
-
 for ( i = 0; i < 3; i++)
 {
     for ( j = 0; j < 3; j++)
@@ -38,7 +33,6 @@ for ( i = 0; i < 3; i++)
     }
     
 }
-
 printf(" ------- sum of matrix is ------- \n");
 
 for ( i = 0; i < 3; i++)
@@ -50,7 +44,5 @@ for ( i = 0; i < 3; i++)
     }
     printf("\n");
 }
-
-
  return 0;
 }
