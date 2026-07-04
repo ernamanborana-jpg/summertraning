@@ -6,6 +6,7 @@ int main(){
   printf("----- values for 1st matrix ----- \n");
 
 for ( i = 0; i < 3; i++)
+  
 {
     for ( j = 0; j < 3; j++)
     {
@@ -14,7 +15,9 @@ for ( i = 0; i < 3; i++)
     }
     
 }
+  
   printf("------- values for 2nd matrix --------\n");
+  
   for ( i = 0; i < 3; i++)
 {
     for ( j = 0; j < 3; j++)
@@ -24,6 +27,7 @@ for ( i = 0; i < 3; i++)
     }
     
 }
+
 for ( i = 0; i < 3; i++)
 {
     for ( j = 0; j < 3; j++)
@@ -33,6 +37,7 @@ for ( i = 0; i < 3; i++)
     }
     
 }
+  
 printf(" ------- sum of matrix is ------- \n");
 
 for ( i = 0; i < 3; i++)
