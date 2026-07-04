@@ -1,5 +1,5 @@
+// program to print second largest number
 #include <stdio.h>
-
 int main() {
     int numbers[6] = {5, 22, 8, 45, 12, 3};
     
