@@ -20,6 +20,6 @@ int main() {
             return 0;
         }
     }
-    printf("Strings are Anagrams\n");
+    printf("Strings are Anagram\n");
     return 0;
 }
