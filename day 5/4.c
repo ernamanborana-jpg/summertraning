@@ -1,5 +1,5 @@
 // arrays
-//         To print sum of element from a given numbers //
+//         To print reverse of given numbers //
 
 #include <stdio.h>
 
